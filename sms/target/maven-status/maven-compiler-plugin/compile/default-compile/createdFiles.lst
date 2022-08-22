@@ -1,0 +1,14 @@
+com\sms\controller\StudentNotActivateException.class
+com\sms\model\Gender.class
+com\sms\service\AuditConfig.class
+com\sms\controller\StudentController.class
+com\sms\repository\Astudent.class
+com\sms\repository\StudentRepository.class
+com\sms\SmsApplication.class
+com\sms\exception\ErrorMessage.class
+com\sms\exception\ControllerExceptionHandler.class
+com\sms\service\AuditAwareImpl.class
+com\sms\model\Student.class
+com\sms\service\StudentService.class
+com\sms\model\Auditable.class
+com\sms\service\StudentUpdateException.class
